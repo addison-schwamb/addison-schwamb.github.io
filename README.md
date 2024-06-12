@@ -1,3 +1,4 @@
+## Addison's academic site -- Made using Phantom by Jami Gibbs, more information below
 ## Phantom for Jekyll
 
 A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with Bootstrap.
