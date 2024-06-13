@@ -124,6 +124,7 @@ Course: Engineering Mathematics
 * Zoe Krug, Undergraduate student
 * Kristen Howorka, Masters student
 * Marshaun Love, Undergraduate student
+* Leandre Pestcoe, Undergraduate student
 
 ### Honors & Awards
 ---
@@ -179,7 +180,7 @@ National Merit Scholar (April 2015)
 * Co-founder and peer facilitator for grassroots peer support & advocacy organization for asexual, aromantic, and agender (aspec) people
 * Facilitate meetings 1-2 times per month, engage in outreach & advocacy at local pride festivals, coordinate fundraisers, and currently organizing a shift to 501(c)3 status
 
-**Toastmasters Internationalx, Oklahoma Christian ECE Chapter**
+**Toastmasters International, Oklahoma Christian ECE Chapter**
 *Vice President* (Aug. 2019 - Apr. 2020)
 * Created schedule of speeches and other duties for one school year, reminded members of their Toastmasters duties every week via email, and coordinated with our faculty sponsor.
 
