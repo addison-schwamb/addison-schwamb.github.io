@@ -6,7 +6,12 @@ permalink: /about/
 
 <h2 style="text-align: center;">Addison Schwamb</h2>
 <h3 style="text-align: center;">(any pronouns)</h3>
-Hi, I'm Addison. I am an electrical engineer by training who develops dynamical systems models of the brain for use in clinical neuroscience. I am currently pursuing my PhD at Washington University in Saint Louis, under the advisement of Dr. ShiNung Ching. You can see more of my work in the paper highlights on the <a href="/">main page</a>, or in my CV below. Are you a current graduate student, or considering graduate school? Check out the <a href="/resources">Resources</a> page for some of the helpful resources I've used during my PhD.
+<div class="square">
+  <div><img src="/img/headshot.jpg" alt="headshot" align="right" style="width:200px;height:300px;margin:10px;"/></div>
+  <p>
+  Hi, I'm Addison. I am an electrical engineer by training who develops dynamical systems models of the brain for use in clinical neuroscience. I am currently pursuing my PhD at Washington University in Saint Louis, under the advisement of Dr. ShiNung Ching. You can see more of my work in the paper highlights on the <a href="/">main page</a>, or in my CV below. Are you a current graduate student, or considering graduate school? Check out the <a href="/resources">Resources</a> page for some of the helpful resources I've used during my PhD.
+  </p>
+</div>
 
 <div class="break"></div>
 

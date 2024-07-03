@@ -17,11 +17,13 @@ title: "Addison Schwamb"
 email: 'addison.schwamb@proton.me'
 description: "Electrical Engineering PhD Candidate with a passion for Computational Neuroscience"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://addison-schwamb.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 lab_site: "https://braindynamics.engineering.wustl.edu/"
 twitter_username: ''
 github_username: 'addison-schwamb'
 medium_username: ''
+section_title: 'Research'
+section_subtitle: 'Papers from my research work, in reverse chronological order'
 
 # Build settings
 markdown: kramdown
