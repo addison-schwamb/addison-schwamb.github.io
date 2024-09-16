@@ -23,14 +23,14 @@ permalink: /about/
 ---
 **Washington University in Saint Louis**
 
-PhD Electrical and Systems Engineering (anticipated May 2025)
+PhD Electrical Engineering (anticipated May 2025)
 
 Cognitive, Computational, and Systems Neuroscience Pathway
 
 
 **Oklahoma Christian University**
 
-BSCE Electrical and Computer Engineering (April 2020)
+BSCE Computer Engineering, Software Emphasis (April 2020)
 
 ### Dissertation
 ---
@@ -121,9 +121,9 @@ Course: Engineering Mathematics
 ---
 **Current Mentees**
 * Zongxi Yu, first year PhD student
-* Mi Zhou, first year PhD student
 
 **Past Mentees**
+* Mi Zhou, Masters student
 * Zhenghao Xiong, Masters student
 * Mario Rodriguez-Montoya, Undergraduate student
 * Zoe Krug, Undergraduate student
@@ -181,48 +181,61 @@ National Merit Scholar (April 2015)
 ### Volunteer & Community Leadership
 ---
 **Actually, Aspec**
+
 *Co-founder and peer facilitator* (Sept. 2022 - present)
 * Co-founder and peer facilitator for grassroots peer support & advocacy organization for asexual, aromantic, and agender (aspec) people
 * Facilitate meetings 1-2 times per month, engage in outreach & advocacy at local pride festivals, coordinate fundraisers, and currently organizing a shift to 501(c)3 status
 
 **Toastmasters International, Oklahoma Christian ECE Chapter**
+
 *Vice President* (Aug. 2019 - Apr. 2020)
 * Created schedule of speeches and other duties for one school year, reminded members of their Toastmasters duties every week via email, and coordinated with our faculty sponsor.
 
 **Senior Design Project**
+
 *Team Lead* (Jan. 2019 - Apr. 2020)
 * Selected by department faculty to be the team lead for my senior design project, including keeping track of teammates' progress, writing weekly status memos, and coordinating meetings with our supervisors
 * Provided guidance and made decisions for the team
 
 **Phi Omega Nu Social Service Club**
+
 *Interim Vice President* (Sept. 2019 - Oct. 2019)
 * Served as Vice President temporarily while the President was unable to complete her responsibilities due to health issues.
 * Assisted in coordinating rush voting, induction night activities, as well as strategic planning for the club as a whole.
+
 *Athletics Director* (Aug. 2019 - Apr. 2020)
 * Organized participation in intramural sports, including choosing teams, choosing coaches, notifying people of game days, and representing our club to intramural staff and other teams' captains.
+
 *Treasurer* (Aug. 2018 - Apr. 2019)
 * Created and managed a budget of $4000 which was subdivided into budgets for fifteen other officers, collected money for dues and other club payments, reconciled monthly credit card statements, cut checks for large purchases, handled sharing a credit card among officers and reimbursed other officers' expenses.
+
 *Alumni Relations Director* (Jan. 2018 - Apr. 2018)
 * Contacted alumni and handled money for an alumni donations drive
 * Created a group on social media for alumni to stay connected to the club
 
 **Society for Women Engineers, Oklahoma Christian Affiliate Chapter**
+
 *Senior Representative* (Aug. 2019 - Apr. 2020)
 * Served as an officer, helping to promote events & fundraisers benefitting women in engineering at Oklahoma Christian and in the greater Oklahoma City area.
+
 *President* (Aug. 2018 - Apr. 2019)
 * In addition to standard officer duties (above), organized and led officer meetings, organized annual fundraiser, and organized officer elections for the 2019-2020 school year.
+
 *Vice President* (Aug. 2017 - Apr. 2018)
 * In addition to standard officer duties, worked with the president to become officially affiliated with SWE International
+
 *Freshman Representative* (Aug. 2016 - Apr. 2017)
 * In addition to standard officer duties, served as a panelist at a Women in Engineering event at the Oklahoma City FIRST Robotics tournament
 
 **Tucson Girls Chorus Southwest Engagement Choir**
+
 *Assistant Director* (Mar. 2014 - May 2015)
 * Taught music theory and performance to underprivileged girls on the Pascua Yaqui reservation near Tucson, AZ.
 
 ### Professional Experience
 ---
 **Niagara Bottling, LLC**
+
 *Automation Software Engineer*
 * Quickly mastered SCADA software platform and became responsible for training other team members
 * Created a monitoring dashboard that provides reliability information for manufacturing systems across 25 locations
@@ -230,6 +243,7 @@ National Merit Scholar (April 2015)
 * Supported optimization project for a different business unit through an independent site visit
 
 **VisuALS**
+
 *Web Developer*
 * Designed and developed custom crowdfunding platform backend, including SQL database construction and integration, as well as integration with existing website and third-party eCommerce platform.
 
