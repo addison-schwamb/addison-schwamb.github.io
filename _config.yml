@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: "Addison Schwamb"
 email: 'addison.schwamb@proton.me'
-description: "Electrical Engineering PhD Candidate with a passion for Computational Neuroscience"
+description: "Assistant Professor of Computer Science Specializing in Computational Neuroscience"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://addison-schwamb.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-lab_site: "https://braindynamics.engineering.wustl.edu/"
+#lab_site: "https://braindynamics.engineering.wustl.edu/"
 twitter_username: ''
 github_username: 'addison-schwamb'
 medium_username: ''
