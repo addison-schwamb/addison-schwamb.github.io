@@ -7,7 +7,7 @@ permalink: /about/
 <h2 style="text-align: center;">Addison Schwamb</h2>
 <h3 style="text-align: center;">(any pronouns)</h3>
 <div class="square">
-  <div><img src="/img/headshot.jpg" alt="headshot" align="right" style="width:200px;height:300px;margin:10px;"/></div>
+  <div><img src="/img/headshot.jpg" alt="headshot" align="right" style="width:300px;height:300px;margin:10px;"/></div>
   <p>
   Hi, I'm Addison. I am an electrical engineer by training who develops dynamical systems models of the brain for use in clinical neuroscience. I am currently an assistant professor of Computer Science and Neuroscience at Rhodes College. You can see some of my research work in the paper highlights on the <a href="/">main page</a>, or in my CV below. Information about the courses I've taught including syllabi can be found on my <a href="/teaching">Teaching</a> page. Are you a student at Rhodes looking do research with me? If so, come see me during my office hours! You can find my up-to-date office hours on the schedule on my office door, Briggs 208. Are you a current graduate student, or considering graduate school? Check out the <a href="/resources">Resources</a> page for some of the helpful resources I've used during my PhD.
   </p>
